@@ -3,3 +3,11 @@
 __pycache__/
 env/
 secrets.yaml
+
+# ASP.NET Core
+obj/
+bin/
+wwwroot/
+
+# Visual Studio for MAC
+src/pisces/pisces.userprefs
